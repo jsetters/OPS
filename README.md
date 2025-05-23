@@ -1,4 +1,4 @@
 # OPS
 
-NinjaOne Agent Installation
-msiexec.exe /i "Filename.msi"
+NinjaOne Agent Installation<br> 
+<code?msiexec.exe /i "Filename.msi"</code>
